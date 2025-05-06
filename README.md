@@ -1,19 +1,29 @@
 # act7_FlutterMapp
 
-A new Flutter project created with FlutLab - https://flutlab.io
+- Pagina principal
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/53e96810-649b-4d86-a185-5d0fbc6ba38d)
 
-A few resources to get you started if this is your first Flutter project:
+- Pagina 1
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+![image](https://github.com/user-attachments/assets/b76e9e84-4663-44de-9852-85109ce2db6d)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Pagina 2
 
-## Getting Started: FlutLab - Flutter Online IDE
+![image](https://github.com/user-attachments/assets/2319affb-d51c-4831-94a1-7d00d1f86b1a)
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- Pagina 3
+
+![image](https://github.com/user-attachments/assets/7f25933f-e07b-431f-b9b6-a3a4e6a16ec3)
+
+- Pagina 4
+
+![image](https://github.com/user-attachments/assets/fe0ab6d5-c965-43f3-a104-9529d4308e1b)
+
+- Pagina 5
+
+![image](https://github.com/user-attachments/assets/1ce94202-c3ac-4970-94b9-666e861fb3d6)
+
+- Pagina 6
+
+![image](https://github.com/user-attachments/assets/a1c41f93-96a2-48cb-9224-654a74f1851c)
